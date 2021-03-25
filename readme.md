@@ -7,3 +7,7 @@
 -view what are the different props that those developed components accept
 -ability to visually showcase those comoponents to your stake holders for feedback
 -dynamically change props, accessibility score
+
+#main.js
+-the storybook configuration file for Storybook itself
+-preview.js is the configuration file for the story's that you write.
